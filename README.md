@@ -42,9 +42,10 @@ Create four plots. The first three will use [plt.errorbar](https://matplotlib.or
 
 * Creating a plot that shows how the tumor volume changes over time for each treatment.
 
+![image](https://user-images.githubusercontent.com/19176084/85476091-14a33080-b57d-11ea-9d92-2bc97602d026.png)
 
 * The final plot is a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-![Change](Images/change.png)
+
 
 ### Observation Portion
 * Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
