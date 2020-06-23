@@ -37,6 +37,8 @@ Create four plots. The first three will use [plt.errorbar](https://matplotlib.or
 * [Metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites change over time for each treatment.
 * ![Spread](Images/spread.png)
 
+![image](https://user-images.githubusercontent.com/19176084/85475200-61860780-b57b-11ea-83da-4863b25d4828.png)
+
 * Creating a plot that shows how the tumor volume changes over time for each treatment.
 ![Survival](Images/survival.png)
 * The final plot is a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
